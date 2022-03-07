@@ -41,6 +41,9 @@ h1, h2, h3, h4, h5, h6 {
 .green-primary {
     color:#20c997;
 }
+.blue-text {
+    color: #33C4FF;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
