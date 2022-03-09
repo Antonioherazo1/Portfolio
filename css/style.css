@@ -119,8 +119,13 @@ display: flex;
 .p-fix {
 position: fixed;
 }
+.mail {
+    color:#2283DF ;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
 .wa {
-    color: green;
+    color:#15C638 ;
     font-size: 3em;
 }
 .text-just{
