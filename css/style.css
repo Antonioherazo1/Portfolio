@@ -32,6 +32,10 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
     margin: auto;
 }
+
+.m-auto{
+    margin: auto;
+}
 .text-light {
     color: #dee3e4;
 }
@@ -115,6 +119,13 @@ display: flex;
 .p-fix {
 position: fixed;
 }
+.wa {
+    color: green;
+    font-size: 3em;
+}
+.text-just{
+    text-align: justify;
+    }
 .text-white {
 color: #ffffff;
 }
